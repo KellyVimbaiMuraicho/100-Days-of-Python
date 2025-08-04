@@ -12,4 +12,4 @@
 
 **datatypes.py prints out the different types of data types.**
 
-**errordatatype.py asks for a user's name, calculates the number of letters in that name, and then prints the result **
+**errordatatype.py asks for a user's name, calculates the number of letters in that name, and then prints the result**
