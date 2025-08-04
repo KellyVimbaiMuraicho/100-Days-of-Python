@@ -15,3 +15,5 @@
 **errordatatype.py asks for a user's name, calculates the number of letters in that name, and then prints the result**
 
 **mathematics.py shows how to combine datatypes using f string**
+
+**calculator.py is a tip calculator that asks for the total bill, a tip percentage, and the number of people, then calculates and displays the final bill amount including the tip.**
